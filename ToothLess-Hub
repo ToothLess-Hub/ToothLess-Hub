@@ -1,0 +1,6 @@
+Config = {
+    namescript = "ToothLess-Hub",--Tên Script
+    logoscript = "99791807263209",--ID Logo Script
+    tacgia = "ToothLess Creator"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxProjectX/Keyless-Blox-Fruits-Script/main/redz9999.txt"))()
